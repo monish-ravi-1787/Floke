@@ -11,3 +11,5 @@ public class CompareStrings {
             System.out.println("Not Equal");
     }
 }
+
+//This changes is only for Github uses 
